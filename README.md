@@ -1,13 +1,13 @@
 Beat the Quantum
 
-{Built from scratch during the hackathon window (October 9-11, 2026)}
+Built from scratch during the hackathon window (October 9-11, 2026)
 
 An interactive demo of the CHSH game, showing a case where entanglement does something no classical strategy can. Built for the Global Qollab Quantum Hackathon (Quantum Playground theme).
 
 
-Demo video: <paste public link here>
+Demo video: (https://drive.google.com/drive/folders/1CVn2C7A0JjvwM9-c2-qODCvewJ63WhbW?usp=sharing)
 
-Qollab project page: <paste public link here>
+Qollab project page:(https://qollab.xyz/p/01a12cde-afb6-727a-9ebd-5d8d49eabd97?v=v1.0)
 
 
 
@@ -26,6 +26,7 @@ Without the shared entangled pair, the quantum mode has no advantage. The gap be
 
 
 How to play:
+The Qollab project runs the quantum core in main.py. The full interactive Streamlit game is in the GitHub repo and demo video.
 To just play the game, you only need 'pip install streamlit' and 'streamlit run app.py', because 'pool.json' is included.
 Classical mode: pick an answer for each player and each input (four dropdowns), then click Auto-play 200 rounds. No choice beats ~75%.
 Quantum mode: click Auto-play 200 rounds and watch the win rate settle near 85%.
