@@ -59,3 +59,7 @@ Team Undecided lol
 
 License
 MIT. See LICENSE.
+
+
+
+(might just change the name to The 75% Wall)
