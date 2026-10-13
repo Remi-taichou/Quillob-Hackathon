@@ -6,10 +6,11 @@ Built from scratch during the hackathon window (October 9-11, 2026)
 
 An interactive demo of the CHSH game, showing a case where entanglement does something no classical strategy can. Built for the Global Qollab Quantum Hackathon (Quantum Playground theme).
 
+Live sit link: https://beatthequantum.streamlit.app
 
-Demo video: (https://drive.google.com/drive/folders/1CVn2C7A0JjvwM9-c2-qODCvewJ63WhbW?usp=sharing)
+Demo video: https://drive.google.com/drive/folders/1CVn2C7A0JjvwM9-c2-qODCvewJ63WhbW?usp=sharing
 
-Qollab project page:(https://qollab.xyz/p/01a12cde-afb6-727a-9ebd-5d8d49eabd97?v=v1.0)
+Qollab project page: https://qollab.xyz/p/01a12cde-afb6-727a-9ebd-5d8d49eabd97?v=v1.0
 
 
 
