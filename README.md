@@ -1,3 +1,5 @@
+Any pre-agreed plan loses at least one round, so it caps at 75%. Entangled particles lose a little in every round instead, and that averages out to 85%. My app shows that gap
+
 Beat the Quantum
 
 Built from scratch during the hackathon window (October 9-11, 2026)
